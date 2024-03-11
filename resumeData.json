@@ -1,0 +1,94 @@
+{
+  "main": {
+    "name":"Arpit Singh",
+    "currently":"Student at Ascension of our Lord Secondary School",
+    "previously":"",
+    "image":"profilepic.png",
+    "bio":"I am a hard-working student with an aptitude for developing innovative solutions to complex problems. I see myself as an optimist and self-motivated person who can work in teams contributing to the ever-changing needs of business. I have an excellent academic record and diverse range experiences with modern technologies. I seek to work in the field of software development to build on my knowledge while solving business challenges.",
+    "contactmessage":"Thank you for viewing my portfolio, feel free to reach out to me using email or phone.",
+    "email": "arp.s0612@gmail.com",
+    "phone": "647-770-5045",
+    "github":"https://github.com/Codename612",
+    "linkedin": "https://www.linkedin.com/in/arp-s/",
+    "project":"https://github.com/ishan-singh-3005/ishans",
+    "address":{
+      "city":"Mississauga",
+      "state":"Ontario"
+    },
+    "website": "https://ishan-singh-3005.github.io/ishans/",
+    "resumedownload":"https://docs.google.com/document/d/1g5EycVtO0UvFSWe7OITLFyW7HbgiF-5Y9W1qpM-YUxA/edit?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/arp-s/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Codename612",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Following are some of the technical skills I possess:",
+    "education":[
+      {
+        "school":"Ascension of our Lord Secondary School",
+        "degree":"Grade 11",
+        "graduated":"June 2026",
+        "description":"Average: 94%"
+      }
+    ],
+    "work":[
+      {
+        "company": "Model United Nations",
+        "years": ["October 2023- Present"],
+        "title": "MUN Delegate",
+        "description": ["Represented the 36th President of the United States, Lyndon B. Johnson, at a Model United Nations conference, significantly contributing to the team's success and earning distinction.",
+        "Conducted detailed research on the Rohingya Crisis and navigated scenarios, including a potential nuclear outbreak during the Cold War, resulting in the creation of a highly impactful position paper.",
+        "Delivered formal and impromptu speeches to a large group of people."]
+      },
+      {
+        "company":"Ascension of our Lord",
+        "title":"Library Support Staff",
+        "years":"September 2022- Present",
+        "description": ["Developed and delivered training sessions for library staff on efficient technology categorization, resulting in a 15% improvement in shelving accuracy and accessibility.",
+        "Established and executed a streamlined logistics system for transporting carts with laptops and tablets, ensuring a 20% increase in the prompt availability of technology resources in classrooms.",
+        "Implemented a proactive technical support approach, efficiently resolving issues such as password resets and file downloads."]
+      },
+      {
+        "company":"Independant",
+        "title":"Mobile Developer",
+        "years":"December 2020- Present",
+        "description": ["Designed, coded, and launched three captivating mobile games with Unity and C#, accumulating over 1000 downloads on the Google Play Store and achieving an 80% user rating.",
+        "Implemented performance optimization techniques, reducing app loading times by 25% and enhancing user satisfaction and engagement.",
+        "Strategically managed ad revenue and marketing initiatives"]
+      }
+    ],
+    "skills":[
+      {
+        "name":"Technical Skills",
+        "description":"Python, C++, C#, Java, Unity, G Suite, Adobe Photoshop, Adobe Premiere Pro, Blender, Visual Studio, Visual Studio Code"
+      },
+      {
+        "name":"Leadership Skills",
+        "description":"Problem-solving, Agile, Teamwork, Time Management, Critical thinking, Decisiveness, Creativity"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Capture the Flag",
+        "link": "https://play.google.com/store/apps/details?id=com.DefaultCompany.CapturetheFlag",
+        "info": "A two-player mobile gaming experience using Unity and C#, including multiple game modes that redefined interactive gaming dynamics."
+      },
+      {
+        "title":"Othello",
+        "link": "https://play.google.com/store/apps/details?id=com.InfinityGuardianStudios.Othello",
+        "info": "Engineered a portable version of the classic Othello board game, leveraging Unity and C# to bring this timeless strategy game to the mobile gaming platform."
+      }
+    ]
+  }
+}
