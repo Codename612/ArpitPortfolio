@@ -35,7 +35,7 @@
     "education":[
       {
         "school":"Ascension of our Lord Secondary School",
-        "degree":"Honours Bachelors of Science in Computer Science",
+        "degree":"Grade 11",
         "graduated":"June 2026",
         "description":"Average: 94%"
       }
@@ -88,32 +88,6 @@
         "title":"Othello",
         "link": "https://play.google.com/store/apps/details?id=com.InfinityGuardianStudios.Othello",
         "info": "Engineered a portable version of the classic Othello board game, leveraging Unity and C# to bring this timeless strategy game to the mobile gaming platform."
-      },
-      {
-        "title":"elDEARly",
-        "link": "https://github.com/utmgdsc/eIDEARly",
-        "info": "This app aims to aid elderly people in using modern technology and bridge the digital literacy gap between elders and the current generation. The app includes features such as text-to-speech, text search, and a chatbot. This app was built using React Native and the learning materials are stored in a MongoDB database. The project was completed in a team of four."
-      },
-      {
-        "title":"Tetris",
-        "link": "https://github.com/ishan-singh-3005",
-        "info": "This project was built as part of the CSC207 course. Tetris is a single player game built using Java. The user interface is built using the JavaFX framework."
-      },
-      {
-        "title":"Boggle",
-        "link": "https://github.com/ishan-singh-3005",
-        "info": "This project was built as part of the CSC207 course. Boggle is a single player game built using Java. The user interface is built using the JavaFX framework. Features contributed by include saving a local highscore and a timer integration. The project was completed in a team of four."
-      },
-      {
-        "title":"A-star pathfinding visualizer",
-        "link": "https://github.com/ishan-singh-3005/a-star-pathfinding",
-        "info": "Used python to implement the a-star pathfinding algorithm and created a visualizer using pygame."
-      }
-      ,
-      {
-        "title":"Huffman file compression",
-        "link": "https://github.com/ishan-singh-3005/huffman",
-        "info": "This project implements the Huffman's compression algorithm using python."
       }
     ]
   }
