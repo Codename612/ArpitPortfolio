@@ -22,7 +22,7 @@ class Contact extends Component {
             <p className="address">
                {city}, {state}<br />
                <span>{phone}</span><br />
-               <a href="mailto:ishan423@gmail.com"><span>{email}</span></a>
+               <a href="mailto:arp.s0612@gmail.com"><span>{email}</span></a>
             </p>
          </div>
    </section>
