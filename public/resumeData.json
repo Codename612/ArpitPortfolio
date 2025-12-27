@@ -1,93 +1,124 @@
 {
   "main": {
-    "name":"Arpit Singh",
-    "currently":"Student at Ascension of our Lord Secondary School",
-    "previously":"",
-    "image":"profilepic.png",
-    "bio":"I am a hard-working student with an aptitude for developing innovative solutions to complex problems. I see myself as an optimist and self-motivated person who can work in teams contributing to the ever-changing needs of business. I have an excellent academic record and diverse range experiences with modern technologies. I seek to work in the field of software development to build on my knowledge while solving business challenges.",
-    "contactmessage":"Thank you for viewing my portfolio, feel free to reach out to me using email or phone.",
+    "name": "Arpit Singh",
+    "currently": "Student at Ascension of Our Lord Secondary School",
+    "previously": "",
+    "image": "profilepic.png",
+    "bio": "I am a motivated and results-driven student with a strong interest in software engineering, artificial intelligence, and data-driven problem solving. I enjoy building full-stack applications, AI-based systems, and analytical tools that address real-world challenges. With a strong academic record and hands-on experience across research, entrepreneurship, and software development, I am eager to continue building impactful technology in collaborative and fast-paced environments.",
+    "contactmessage": "Thank you for viewing my portfolio. Feel free to reach out via email or phone.",
     "email": "arp.s0612@gmail.com",
-    "phone": "647-770-5045",
-    "github":"https://github.com/Codename612",
+    "phone": "437-733-9242",
+    "github": "https://github.com/Codename612",
     "linkedin": "https://www.linkedin.com/in/arp-s/",
-    "project":"https://codename612.github.io/ArpitPortfolio/",
-    "address":{
-      "city":"Mississauga",
-      "state":"Ontario"
+    "project": "https://codename612.github.io/ArpitPortfolio/",
+    "address": {
+      "city": "Toronto",
+      "state": "Ontario"
     },
     "website": "https://codename612.github.io/ArpitPortfolio/",
-    "resumedownload":"https://docs.google.com/document/d/1g5EycVtO0UvFSWe7OITLFyW7HbgiF-5Y9W1qpM-YUxA/edit?usp=sharing",
-    "social":[
+    "resumedownload": "https://docs.google.com/document/d/1g5EycVtO0UvFSWe7OITLFyW7HbgiF-5Y9W1qpM-YUxA/edit?usp=sharing",
+    "social": [
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/arp-s/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/arp-s/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"github",
-        "url":"https://github.com/Codename612",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/Codename612",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Following are some of the technical skills I possess:",
-    "education":[
+  "resume": {
+    "skillmessage": "Here are some of the technical and professional skills I bring to projects:",
+    "education": [
       {
-        "school":"Ascension of our Lord Secondary School",
-        "degree":"Grade 11",
-        "graduated":"June 2026",
-        "description":"Average: 94%"
+        "school": "Ascension of Our Lord Secondary School",
+        "degree": "Grade 12",
+        "graduated": "June 2026",
+        "description": "Academic Average: 94%"
       }
     ],
-    "work":[
+    "work": [
+      {
+        "company": "University of Toronto",
+        "years": "2024",
+        "title": "Research Intern",
+        "description": [
+          "Assisted with university-level research involving data analysis, simulations, and computational problem solving.",
+          "Worked with Python-based tools to analyze datasets and model scientific or technical systems.",
+          "Developed strong research skills including documentation, critical analysis, and collaboration with academic mentors."
+        ]
+      },
+      {
+        "company": "PawsomePicks",
+        "years": "2024 – Present",
+        "title": "Founder & E-commerce Developer",
+        "description": [
+          "Founded and managed an e-commerce store using Shopify with automated product sourcing via AutoDS.",
+          "Executed TikTok advertising campaigns and analyzed performance metrics to optimize engagement and conversions.",
+          "Gained hands-on experience in analytics, marketing strategy, and online business operations."
+        ]
+      },
       {
         "company": "Model United Nations",
-        "years": ["October 2023- Present"],
+        "years": "October 2023 – Present",
         "title": "MUN Delegate",
-        "description": ["Represented the 36th President of the United States, Lyndon B. Johnson, at a Model United Nations conference, significantly contributing to the team's success and earning distinction.",
-        "Conducted detailed research on the Rohingya Crisis and navigated scenarios, including a potential nuclear outbreak during the Cold War, resulting in the creation of a highly impactful position paper.",
-        "Delivered formal and impromptu speeches to a large group of people."]
+        "description": [
+          "Represented political leaders and nations in competitive conferences, earning recognition for research and diplomacy.",
+          "Conducted in-depth research on international crises and geopolitical conflicts.",
+          "Delivered formal and impromptu speeches while collaborating under time pressure."
+        ]
       },
       {
-        "company":"Ascension of our Lord",
-        "title":"Library Support Staff",
-        "years":"September 2022- Present",
-        "description": ["Developed and delivered training sessions for library staff on efficient technology categorization, resulting in a 15% improvement in shelving accuracy and accessibility.",
-        "Established and executed a streamlined logistics system for transporting carts with laptops and tablets, ensuring a 20% increase in the prompt availability of technology resources in classrooms.",
-        "Implemented a proactive technical support approach, efficiently resolving issues such as password resets and file downloads."]
+        "company": "Ascension of Our Lord Secondary School",
+        "years": "September 2022 – Present",
+        "title": "Library Support Staff",
+        "description": [
+          "Improved technology organization and accessibility through staff training initiatives.",
+          "Optimized logistics for distributing laptops and tablets to classrooms.",
+          "Provided technical support for students and staff, resolving software and hardware issues."
+        ]
       },
       {
-        "company":"Independant",
-        "title":"Mobile Developer",
-        "years":"December 2020- Present",
-        "description": ["Designed, coded, and launched three captivating mobile games with Unity and C#, accumulating over 1000 downloads on the Google Play Store and achieving an 80% user rating.",
-        "Implemented performance optimization techniques, reducing app loading times by 25% and enhancing user satisfaction and engagement.",
-        "Strategically managed ad revenue and marketing initiatives"]
+        "company": "Independent",
+        "years": "December 2020 – Present",
+        "title": "Mobile Game Developer",
+        "description": [
+          "Designed, developed, and published multiple mobile games using Unity and C#.",
+          "Achieved over 1,000 total downloads with strong user ratings on the Google Play Store.",
+          "Optimized performance and managed basic monetization strategies."
+        ]
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Technical Skills",
-        "description":"Python, C++, C#, Java, Unity, G Suite, Adobe Photoshop, Adobe Premiere Pro, Blender, Visual Studio, Visual Studio Code"
+        "name": "Technical Skills",
+        "description": "Python, C++, C#, Java, JavaScript, ReactJS, Unity, Git/GitHub, APIs, NumPy, SciPy, MS Office, G Suite, Visual Studio, VS Code, Blender, Adobe Photoshop, Adobe Premiere Pro"
       },
       {
-        "name":"Leadership Skills",
-        "description":"Problem-solving, Agile, Teamwork, Time Management, Critical thinking, Decisiveness, Creativity"
+        "name": "Leadership & Professional Skills",
+        "description": "Problem-Solving, Critical Thinking, Research & Analysis, Team Collaboration, Agile Mindset, Communication, Time Management, Creativity"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Capture the Flag",
-        "link": "https://play.google.com/store/apps/details?id=com.DefaultCompany.CapturetheFlag",
-        "info": "A two-player mobile gaming experience using Unity and C#, including multiple game modes that redefined interactive gaming dynamics."
+        "title": "Personal Portfolio Website",
+        "link": "https://codename612.github.io/ArpitPortfolio/",
+        "info": "A responsive portfolio website built with ReactJS to showcase projects, experience, and skills."
       },
       {
-        "title":"Othello",
+        "title": "Capture the Flag",
+        "link": "https://play.google.com/store/apps/details?id=com.DefaultCompany.CapturetheFlag",
+        "info": "A two-player mobile game built with Unity and C# featuring multiple competitive modes."
+      },
+      {
+        "title": "Othello",
         "link": "https://play.google.com/store/apps/details?id=com.InfinityGuardianStudios.Othello",
-        "info": "Engineered a portable version of the classic Othello board game, leveraging Unity and C# to bring this timeless strategy game to the mobile gaming platform."
+        "info": "A mobile adaptation of the classic Othello board game developed using Unity and C#."
       }
     ]
   }
