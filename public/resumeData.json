@@ -43,9 +43,11 @@
     "work": [
       {
         "company": "Google",
+        "years": "2026",
         "title": "Research Intern",
-        "startDate": "2026-01-01",
-        "description": "Joined Google as a Research Intern working on language model tooling."
+        "description": [
+          "Joined Google as a Research Intern working on language model tooling."
+        ]
       },
       {
         "company": "University of Toronto",
