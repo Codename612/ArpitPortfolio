@@ -42,14 +42,6 @@
     ],
     "work": [
       {
-        "company": "Google",
-        "years": "2026",
-        "title": "Research Intern",
-        "description": [
-          "Joined Google as a Research Intern working on language model tooling."
-        ]
-      },
-      {
         "company": "University of Toronto",
         "years": "2025",
         "title": "Research Intern",
@@ -113,11 +105,6 @@
   },
   "portfolio": {
     "projects": [
-      {
-        "title": "LinkedIn Portfolio Updater",
-        "description": "Developed an automated tool to update portfolio based on LinkedIn profile changes.",
-        "source": "https://www.linkedin.com/in/arp-s/"
-      },
       {
         "title": "Personal Portfolio Website",
         "link": "https://codename612.github.io/ArpitPortfolio/",
